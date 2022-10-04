@@ -3,8 +3,8 @@ import java.util.Scanner;
 class calculator {
     public static void main(String[] args) {
 
-        int x=5;
-        int y=50;
+        int x=0;
+        int y=0;
         double result=0;
 char expression=' ';
         Scanner in = new Scanner(System.in);
